@@ -42,11 +42,11 @@ Este es un proyecto simple con un propósito específico, pero si tienes ideas d
 ## Autor
 
 <img src="https://avatars.githubusercontent.com/u/92615525?v=4" alt="Mi perfil de GitHub" width="100" height="100">
-<h3><a href="https://github.com/sebastianszz"><b>@sebastianszz</b></a></h3>
+<h3><a href="https://github.com/sebastianszz"><b>@SeezDev</b></a></h3>
 
 ## Contacto
 
 Si tienes preguntas o comentarios sobre este proyecto, no dudes en contactarme:
-<b><a href="mailto:sebastianszz@hotmail.com">sebastianszz@hotmail.com</a></b>
+<div><b><a href="https://www.linkedin.com/in/marcelo-sebastian-suarez/">Linkedin | Marcelo Sebastian Suarez</a></b></div>
 
 
